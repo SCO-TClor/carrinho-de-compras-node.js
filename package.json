@@ -1,0 +1,12 @@
+{
+  "name": "04-carrinhonode",
+  "version": "1.0.0",
+  "description": "Criação do backend do carrinho de compras de um site de vendas convencional",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pedro-da-silveira-thiago",
+  "license": "ISC"
+}
